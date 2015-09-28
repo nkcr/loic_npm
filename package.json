@@ -1,0 +1,19 @@
+{
+  "name": "loic_npm",
+  "version": "1.0.0",
+  "description": "Ability to interact with Loic objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkcr/loic_npm.git"
+  },
+  "author": "Noémien Kocher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkcr/loic_npm/issues"
+  },
+  "homepage": "https://github.com/nkcr/loic_npm#readme"
+}
