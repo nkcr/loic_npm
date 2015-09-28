@@ -5,4 +5,4 @@ Adds the ability to manipulate a Loic object.
 
 run
 
-  npm install git://github.com/nkcr/loic_npm.git
+    npm install git://github.com/nkcr/loic_npm.git
