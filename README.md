@@ -12,6 +12,9 @@ run
 Via the console :
 
     node
-    var Loic = require('loic_npm');
-    var loic = new Loic();
-    loic.shut_up();
+    > var Loic = require('loic_npm');
+    > var loic = new Loic();
+    > loic.shut_up();
+    Shut up Loic!
+    > loic.is_shut();
+    Loic is currently shut
