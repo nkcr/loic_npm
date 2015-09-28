@@ -1,2 +1,2 @@
 # loic_npm
-Adds to ability to manipulate a Loic object
+Adds the ability to manipulate a Loic object.
