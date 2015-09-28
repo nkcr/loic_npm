@@ -6,3 +6,12 @@ Adds the ability to manipulate a Loic object.
 run
 
     npm install git://github.com/nkcr/loic_npm.git
+
+# Usage
+
+Via the console :
+
+    node
+    var Loic = require('loic_npm');
+    var loic = new Loic();
+    loic.shut_up();
