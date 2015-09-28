@@ -18,3 +18,5 @@ Via the console :
     Shut up Loic!
     > loic.is_shut();
     Loic is currently shut
+
+Pretty amazing eh?
